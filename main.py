@@ -22,9 +22,9 @@ def generateSkeleton():
     audioProcessed=audio[start:finish]
     audioProcessed.export('Part-2.mp3',format="mp3")
 
-    # Part-3 train no and name
+    # Part-3 04432 JAKHAL DELHI PASSENGER
 
-    # Part-4 from city
+    # Part-4 JAKHAL JUNCTION
 
     # Part-5 se chalkar
     start=8950
@@ -32,7 +32,7 @@ def generateSkeleton():
     audioProcessed=audio[start:finish]
     audioProcessed.export('Part-5.mp3',format="mp3")
 
-    # Part-6 via city
+    # Part-6 UCHANA JIND JULANA ROHTAK BHADURGARH SHAKURBASTI
 
     # Part-7 ke raaste
     start=11100
@@ -40,7 +40,7 @@ def generateSkeleton():
     audioProcessed=audio[start:finish]
     audioProcessed.export('Part-7.mp3',format="mp3")
 
-    # Part-8 to city
+    # Part-8 DELHI JUNCTION
 
     # Part-9 ko jane wali...platform sankhiya
     start=12650
@@ -48,7 +48,7 @@ def generateSkeleton():
     audioProcessed=audio[start:finish]
     audioProcessed.export('Part-9.mp3',format="mp3")
 
-    # Part-10 platform no
+    # Part-10 2
 
     # Part-11 par aa rahi hai...end music
     start=16400
@@ -65,25 +65,25 @@ def generateSkeleton():
     audioProcessed=audio[start:finish]
     audioProcessed.export('Part-12.mp3',format="mp3")
 
-    # Part-13 train no and name
+    # Part-13 04432 jakhal delhi passenger
 
-    # Part-14 from
+    # Part-14 jakhal junction
     start=44200
     finish=44750
     audioProcessed=audio[start:finish]
     audioProcessed.export('Part-14.mp3',format="mp3")
 
-    # Part-15 from city
+    # Part-15 jakhal
 
-    # Part-16 to
+    # Part-16 delhi junction
     start=45600
     finish=46150
     audioProcessed=audio[start:finish]
     audioProcessed.export('Part-16.mp3',format="mp3")
 
-    # Part-17 to city
+    # Part-17 delhi junction
 
-    # Part-18 via
+    # Part-18 via jind julana rohtak bhadurgarh shakurbasti
     start=47100
     finish=47650
     audioProcessed=audio[start:finish]
@@ -97,7 +97,7 @@ def generateSkeleton():
     audioProcessed=audio[start:finish]
     audioProcessed.export('Part-20.mp3',format="mp3")
 
-    # Part-21 platform no
+    # Part-21 platform no 2
 
     # Part-22 thank you...end music
     start=52800
